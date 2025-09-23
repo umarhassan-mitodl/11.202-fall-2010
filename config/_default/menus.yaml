@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 2ce7cd5f-1231-378d-85b0-bee4bc92afc9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fbdf54fb-81d6-1f65-b6bd-847139bd964c
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 51d9eb00-6c1a-9c5c-9886-1229abd560de
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 5434cafa-77d8-f524-cbd5-94e9aaf797fa
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 40
+- identifier: a9e80de2-fc97-6f8e-9978-55ab27cc7a2a
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: b9a589e1-5983-4bc4-c43b-fdf3d0da1b45
+  name: Exams
+  pageRef: /pages/exams
+  weight: 60
+- identifier: 8b116822-99af-5f06-1079-f4676885aac1
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70

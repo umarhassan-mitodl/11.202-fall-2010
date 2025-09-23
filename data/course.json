@@ -1,0 +1,63 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "legacy_uid": "60d4a16f-2f8d-0cd3-0e0b-d0eed59b95ea",
+  "instructors": {
+    "content": [
+      "a63b63f3-6fff-7d48-bc5d-5dfb7d4ad998"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b4c1fb13-c47e-b16d-c0d7-bb2c0f14ed1c",
+    "website": "11-202-planning-economics-fall-2010"
+  },
+  "course_title": "Planning Economics",
+  "course_description": "Planning Economics will apply microeconomic theory to issues that markets don't always handle well and so are not usually covered in a standard microeconomics course. Issues for this year include global warming, how you value a national park, the economics and politics of New York City development, how cities form and why people are willing to pay more to live in, say, the Boston Metro area, than they would pay to live in rural North Dakota, and how to evaluate costs and benefits that occur at different points in time.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.202",
+  "course_image_thumbnail": {
+    "content": "68f4024a-b85a-638d-7c3c-3443a6a44036",
+    "website": "11-202-planning-economics-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "b838ba23-8077-4654-872a-c4850915b292",
+  "site_short_id": "11.202-fall-2010",
+  "site_url_path": "courses/11-202-planning-economics-fall-2010",
+  "title": "Course Metadata"
+}
