@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides handouts from math review sessions covering topics
   that came up each weak in class.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Math Review
