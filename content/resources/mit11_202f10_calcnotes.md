@@ -4,8 +4,6 @@ description: This resource contains information related to calculus and gasoline
 file: /courses/11-202-planning-economics-fall-2010/cb7dd35310ea3946fed5505973f509c7_MIT11_202F10_calcnotes.pdf
 file_size: 45926
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

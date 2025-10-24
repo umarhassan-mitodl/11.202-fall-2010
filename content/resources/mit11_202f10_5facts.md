@@ -4,8 +4,6 @@ description: This resource contains information related to greenhouse gamble.
 file: /courses/11-202-planning-economics-fall-2010/0a5884e9505fa19575f632c12b791cc4_MIT11_202F10_5facts.pdf
 file_size: 493291
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
