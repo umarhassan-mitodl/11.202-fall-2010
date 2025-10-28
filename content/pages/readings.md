@@ -25,7 +25,7 @@ Public goods and externalities I: A local perspective
 
 \[NS\] Chapter 16.
 
-Tiebout, Charles. "[A Pure Theory of Local Expenditures](http://www.jstor.org/pss/1826343)." *Journal of Political Economy* (October 1956): 416-424.
+Tiebout, Charles. "{{% resource_link "8f1d3184-4998-47a9-8db3-f8e5cee42be9" "A Pure Theory of Local Expenditures" %}}." *Journal of Political Economy* (October 1956): 416-424.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -43,9 +43,9 @@ Estimating the cost of global warming, Michael Greenstone, 3M Professor of Envir
 
 {{< tdclose >}}{{< tdopen >}}
 
-Congressional Budget Office. "How Policies to Reduce Greenhouse Gas Emissions Could Affect Employment." May 5, 2010. ([PDF](http://www.cbo.gov/ftpdocs/105xx/doc10564/05-05-CapAndTrade_Brief.pdf))
+Congressional Budget Office. "How Policies to Reduce Greenhouse Gas Emissions Could Affect Employment." May 5, 2010. ({{% resource_link "05e8bbd0-65aa-43ee-82ef-64173a706e64" "PDF" %}})
 
-[Econ 101: Carbon Tax vs. Cap-and-Trade](http://www.env-econ.net/carbon_tax_vs_capandtrade.html). Environmental Economics: Economists on Environmental and Natural Resources.
+{{% resource_link "fae77606-d0c7-47be-bddc-d95be8ca84e6" "Econ 101: Carbon Tax vs. Cap-and-Trade" %}}. Environmental Economics: Economists on Environmental and Natural Resources.
 
 **Slides**: Michael Greenstone- "5 Facts about Climate Change: Cause for a Shift in Policy?" ({{% resource_link "0a5884e9-505f-a195-75f6-32c12b791cc4" "PDF" %}})
 
@@ -61,7 +61,7 @@ Basic investment theory
 
 \[NS\] Chapter 14 including appendix
 
-[Visualization Tools](http://web.mit.edu/11.203/www/econ/): Experiment with exercise 6.1.1. and 6.1.2.
+{{% resource_link "753a3f41-0e94-4e46-a0c1-84d8858dd71b" "Visualization Tools" %}}: Experiment with exercise 6.1.1. and 6.1.2.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -79,11 +79,11 @@ McGrath, Tod. "Commonwealth Development (A)." MIT Center for Real Estate, 1999.
 Location, economic development and the canonical urban problem
 {{< tdclose >}}{{< tdopen >}}
 
-Krugman, Paul. "[Space: The Final Frontier](http://www.jstor.org/pss/2646968)." *Journal of Economic Perspectives* (Spring 1998): 161-174.
+Krugman, Paul. "{{% resource_link "93fe1183-0a12-459e-bf12-49e0e9da2ea2" "Space: The Final Frontier" %}}." *Journal of Economic Perspectives* (Spring 1998): 161-174.
 
-Gaspar, Jess, and Edward L. Glaesar. "[Information Technology and the Future of Cities](http://dx.doi.org/10.1006/juec.1996.2031)." *Journal of Urban Economics* 43 (1998): 136-156. 
+Gaspar, Jess, and Edward L. Glaesar. "{{% resource_link "dc59dcb6-3d6d-457f-b40f-097cb1dffac2" "Information Technology and the Future of Cities" %}}." *Journal of Urban Economics* 43 (1998): 136-156. 
 
-Baumol, William J. "[The Macroeconomics of Unbalanced Growth](http://www.jstor.org/pss/1812111)." *American Economic Review* 67, no. 3 (1967): 415-426.
+Baumol, William J. "{{% resource_link "46b814a4-b7aa-49d6-95a7-a2edf25efcc9" "The Macroeconomics of Unbalanced Growth" %}}." *American Economic Review* 67, no. 3 (1967): 415-426.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -91,9 +91,9 @@ Baumol, William J. "[The Macroeconomics of Unbalanced Growth](http://www.jstor.o
 Location, economic development, and the canonical urban problem, cont.
 {{< tdclose >}}{{< tdopen >}}
 
-Glaeser, Edward L., and Matthew E. Kahn. "[The Greenness of Cities: Carbon Dioxide Emissions and Urban Development](http://www.nber.org/papers/w14238)." NBER Working Paper No. 14238. August 2008.
+Glaeser, Edward L., and Matthew E. Kahn. "{{% resource_link "576d9bd7-fc64-414e-b6b2-666a4dcddce6" "The Greenness of Cities: Carbon Dioxide Emissions and Urban Development" %}}." NBER Working Paper No. 14238. August 2008.
 
-Glaeser, Edward L., and Albert Saiz. "The Rise of the Skilled City." NBER Working Paper No. 10191. ([PDF](http://www.nber.org/papers/w10191.pdf))
+Glaeser, Edward L., and Albert Saiz. "The Rise of the Skilled City." NBER Working Paper No. 10191. ({{% resource_link "3efe0d26-9638-45f5-9364-c1d123c8296c" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
